@@ -1,0 +1,1 @@
+.gitconfig file for Sublime Text 2
